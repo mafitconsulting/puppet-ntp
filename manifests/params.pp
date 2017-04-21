@@ -1,5 +1,5 @@
 class ntp::params {
-  $packaga_name = 'ntp'
+  $package_name = 'ntp'
   $package_ensure = 'present'
   $config_name = 'ntp.conf'
   $config_file_mode = '0664'
